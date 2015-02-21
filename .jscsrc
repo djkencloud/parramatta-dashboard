@@ -1,0 +1,25 @@
+{
+    "preset": "google",
+    "maximumLineLength": null,
+    "validateLineBreaks": "LF",
+    "validateIndentation": 4,
+    "disallowKeywords": ["with"],
+    "disallowSpacesInsideObjectBrackets": true,
+    "disallowImplicitTypeConversion": ["string"],
+    "requireLineFeedAtFileEnd": null,
+    "disallowMultipleVarDecl": true,
+    "requireCapitalizedConstructors": true,
+    "requireParenthesesAroundIIFE": true,
+    "disallowEmptyBlocks": true,
+    "disallowMixedSpacesAndTabs": "smart",
+	"requireSpaceAfterKeywords": [
+	  "if",
+	  "else",
+	  "for",
+	  "while",
+	  "do",
+	  "switch",
+	  "return",
+	  "try"
+	]
+}

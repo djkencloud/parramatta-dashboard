@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Test</title>
+
+    <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+
+</head>
+<body>
+
+    <script>
+
+        var urlStatus = '//livetraffic.rta.nsw.gov.au/status/site.json';
+        var urlTrafficCameras = 'http://data.livetraffic.com/cameras/traffic-cam.json';
+        var urlIncidentCameras = 'http://livetraffic.rta.nsw.gov.au/traffic/hazards/incident-open.json';
+        var urlM4TrafficTime = 'http://livetraffic.rta.nsw.gov.au/traffic/travel_time/m4.json';
+
+        // test for MAMP, grunt server is a node server DOH ! (work fix)/
+        var request = $.ajax({
+            url: "php/proxy.php",
+            data: {requrl: urlM4TrafficTime },
+            dataType: 'json',
+            success: function(data) {
+                console.log('sucess ', data)
+            },
+            error: function(jqXHR, textStatus, errorThrown) {
+                console.log('doh')
+            }
+        });
+
+
+
+
+
+    </script>
+
+</body>
+</html>

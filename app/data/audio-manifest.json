@@ -1,0 +1,11 @@
+{"sources":
+    {
+        "sfx":{
+			"exampleSfx01":{"src":"sfx/example-01.mp3"},
+			"exampleSfx02":{"src":"sfx/example-02.mp3"}
+        },
+        "music":{
+			"exampleMusic":{"src":"music/example.mp3"}
+		}
+    }
+}

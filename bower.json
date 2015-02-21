@@ -1,0 +1,20 @@
+{
+  "name": "parramatta-dashboard",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.0",
+    "bootstrap": "~3.1.1",
+    "modernizr": "~2.8.2",
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.14",
+    "normalize-css": "~3.0.1",
+    "backbone": "~1.1.2",
+    "underscore": "~1.7.0",
+    "lodash": "~1.3.1",
+    "requirejs-text": "~2.0.10",
+    "momentjs": "~2.7.0",
+    "snap.svg": "~0.3.0",
+    "d3": "~3.4.11"
+  },
+  "devDependencies": {}
+}

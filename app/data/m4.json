@@ -1,0 +1,369 @@
+{
+    "type": "FeatureCollection",
+    "rights": {
+        "copyright": "Transport for NSW",
+        "licence": "http://livetraffic.com/#dev"
+    },
+    "layerName": "M4 Travel Times",
+    "lastPublished": 1422860982168,
+    "features": [
+        {
+            "type": "Feature",
+            "id": "W5",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.91591,
+                    -33.80545
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 4,
+                "fromDisplayName": "Prospect Hwy",
+                "direction": "W",
+                "toDisplayName": "M7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W6",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.85426,
+                    -33.79803
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "M7",
+                "direction": "W",
+                "toDisplayName": "Roper Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W3",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.02015,
+                    -33.83085
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 5,
+                "fromDisplayName": "James Ruse Dr",
+                "direction": "W",
+                "toDisplayName": "Cumberland Hwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W4",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.9635,
+                    -33.81611
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "Cumberland Hwy",
+                "direction": "W",
+                "toDisplayName": "Prospect Hwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W1",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.09403,
+                    -33.86545
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 1,
+                "fromDisplayName": "Concord Rd",
+                "direction": "W",
+                "toDisplayName": "Homebush Bay Dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W2",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.0706,
+                    -33.85695
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 7,
+                "fromDisplayName": "Homebush Bay Dr",
+                "direction": "W",
+                "toDisplayName": "James Ruse Dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E5",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.85426,
+                    -33.79803
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 4,
+                "fromDisplayName": "M7",
+                "direction": "E",
+                "toDisplayName": "Prospect Hwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E6",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.91591,
+                    -33.80545
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "Prospect Hwy",
+                "direction": "E",
+                "toDisplayName": "Cumberland Hwy"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E7",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.9635,
+                    -33.81611
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 5,
+                "fromDisplayName": "Cumberland Hwy",
+                "direction": "E",
+                "toDisplayName": "James Ruse Dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E8",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.02015,
+                    -33.83085
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 6,
+                "fromDisplayName": "James Ruse Dr",
+                "direction": "E",
+                "toDisplayName": "Homebush Bay Dr"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E9",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.0706,
+                    -33.85695
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "Homebush Bay Dr",
+                "direction": "E",
+                "toDisplayName": "Concord Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "ETOTAL",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    151.09403,
+                    -33.86545
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 31,
+                "fromDisplayName": "Russell St",
+                "toDisplayName": "Concord Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WTOTAL",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.65219,
+                    -33.75885
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 33,
+                "fromDisplayName": "Concord Rd",
+                "toDisplayName": "Russell St"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E2",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.70375,
+                    -33.78553
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "The Northern Rd",
+                "direction": "E",
+                "toDisplayName": "Mamre Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E1",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.65219,
+                    -33.75885
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "Russell St",
+                "direction": "E",
+                "toDisplayName": "The Northern Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E4",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.80752,
+                    -33.79111
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "Roper Rd",
+                "direction": "E",
+                "toDisplayName": "M7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "E3",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.77096,
+                    -33.78421
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 2,
+                "fromDisplayName": "Mamre Rd",
+                "direction": "E",
+                "toDisplayName": "Roper Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W8",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.77096,
+                    -33.78421
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 4,
+                "fromDisplayName": "Mamre Rd",
+                "direction": "W",
+                "toDisplayName": "The Northern Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W7",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.80752,
+                    -33.79111
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 2,
+                "fromDisplayName": "Roper Rd",
+                "direction": "W",
+                "toDisplayName": "Mamre Rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "W9",
+            "geometry": {
+                "type": "POINT",
+                "coordinates": [
+                    150.70375,
+                    -33.78553
+                ]
+            },
+            "properties": {
+                "isActive": true,
+                "travelTimeMinutes": 3,
+                "fromDisplayName": "The Northern Rd",
+                "direction": "W",
+                "toDisplayName": "Russell St"
+            }
+        }
+    ]
+}

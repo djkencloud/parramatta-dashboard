@@ -1,0 +1,16 @@
+<div class="border-outline">
+
+    <h2>Traffic Cameras.</h2>
+    <h5>Live updates for Western Sydney roads</h5>
+    <div id="content-slider-1" class="royalSlider contentSlider rsDefault">
+
+        <% _.each(trafficCameras, function(obj) { %>
+            <div>
+                <img class="rsImg" src="<%= obj.href %>" data-rsw="352" data-rsh="288" >
+                <p style=""><%= obj.view %></p>
+
+            </div>
+        <% }) %>
+
+    </div>
+</div>
