@@ -10,10 +10,11 @@ define([
     var Factoid = Backbone.View.extend({
 
 
-        render: function(fact) {
+        render: function(fact, classColour) {
 
             var data = {
                 fact: fact,
+                classColour: classColour,
                 _: _
             };
 

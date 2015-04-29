@@ -138,14 +138,14 @@ define([
             this._fact1 = new Factoid({
                 el: '#factoid-one'
             });
-            this._fact1.render(factOne);
+            this._fact1.render(factOne, 'light-blue');
 
             // factoid TWO
             var factTwo = 'There are plans for the tallest residential building in the state to be based in Parramatta? In 2013/14 174,000 patrons visited the Riverside theatre attending 1835 events.';
             this._fact2 = new Factoid({
                 el: '#factoid-two'
             });
-            this._fact2.render(factTwo);
+            this._fact2.render(factTwo, 'red');
 
 
             // map of cuisine
